@@ -70,7 +70,7 @@ The dataset contains the following fields:
 
 •	From our analysis we identify that no. of patient admission is higher in the month of June followed by November and lowest in the month of July.
 
-•	From above analysis we can also able to find that we got more revenue from cardiology department followed by orthopedic.
+•	Based on the above analysis, we observed that the cardiology department generated the highest revenue, followed by the orthopedic department.
 
 •	From our analysis we can clearly say that most used  mode of payment is Medicare followed by Medicaid. 
 
